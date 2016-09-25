@@ -2,7 +2,6 @@
 # coding: utf-8
 
 from functools import wraps
-from types import *
 import numpy as np
 import random
 
