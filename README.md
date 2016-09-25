@@ -6,5 +6,5 @@ very simple random sampler for vector data. Just for my archive.
 ## Library Dependency
  numpy (pip install will automatically install numpy if necessary.)
  
-# Samples
- [generate gaussian vectors][https://github.com/AtsushiHashimoto/vector_sampler/blob/master/samples/generate_gaussian_vectors.py]
+# Link to Sample Codes
+ [generate gaussian vectors](https://github.com/AtsushiHashimoto/vector_sampler/blob/master/samples/generate_gaussian_vectors.py)
