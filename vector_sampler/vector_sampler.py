@@ -41,8 +41,7 @@ def nvec_sample(shape,dist_params):
     return _1
         
         
-        
-if __name__ == '__main__':
+'''if __name__ == '__main__':
     import random
     class_num = 2
     vec_dim = 3
