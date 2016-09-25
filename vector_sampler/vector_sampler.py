@@ -3,7 +3,6 @@
 
 from functools import wraps
 import numpy as np
-import random
 
 def nsample(shape):
     def _1(function):
@@ -44,6 +43,7 @@ def nvec_sample(shape,dist_params):
         
         
 if __name__ == '__main__':
+    import random
     class_num = 2
     vec_dim = 3
     each_class_num = 4
