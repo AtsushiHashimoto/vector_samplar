@@ -13,6 +13,6 @@ setup(
         url              = 'https://github.com/AtsushiHashimoto/vector_sampler.git',
         keywords         = 'random sampling',
         packages         = find_packages(),
-        install_requires = [numpy],
+        install_requires = ['numpy'],
         )
  
