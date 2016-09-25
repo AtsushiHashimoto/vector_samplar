@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 from setuptools import setup, find_packages
-from pip_github_test import __author__, __version__, __license__
+from vector_sampler import __author__, __version__, __license__
  
 setup(
         name             = 'vector_sampler',
@@ -15,3 +15,4 @@ setup(
         packages         = find_packages(),
         install_requires = [numpy],
         )
+ 
